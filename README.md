@@ -15,15 +15,15 @@
 </p>
 
 
-Soy un estudiante de Ingeniería en Sistemas, me gusta
-mucho la programación web por su capacidad de ejecutarse
-en cualquier dispositivo. Me gusta mucho aprender cosas
-nuevas y compartir lo que sé de manera simple y sencilla. </br>
+Soy un estudiante de Ingeniería en Sistema que le gusta aprender
+cosas nuevas relacionados con la programación y la tecnología, además
+de compartir lo que aprendo con todo el mundo de una forma divertida
+y simple.
 
 <pre>
 👻 Mis gustos son:
-    - La programación 💻
-    - La música 🎸
+    - La programación (Crear proyectos) 💻
+    - La música (Escuchar y tocar) 🎸
     - El dibujo 🎨
     - Los videojuegos 🎮
 </pre>
