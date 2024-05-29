@@ -1,4 +1,6 @@
-# Buenas ✌️! Soy <b>RepolloDev</b> 🥬
+![](./assets/Group.png)
+
+<h1 align="center">Buenas ✌️! Soy <b>RepolloDev</b> 🥬</h1>
 
 <p align="center">
     <a href="https://www.youtube.com/@RepolloDev">
@@ -12,9 +14,6 @@
     </a>
 </p>
 
-![](./assets/Group.png)
-
-## Sobre mi ✍️
 
 Soy un estudiante de Ingeniería en Sistemas, me gusta
 mucho la programación web por su capacidad de ejecutarse
