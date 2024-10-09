@@ -26,4 +26,5 @@ y simple.
     - La música (Escuchar y tocar) 🎸
     - El dibujo 🎨
     - Los videojuegos 🎮
+    - 👀 Leer, pero no documentación 🤫
 </pre>
