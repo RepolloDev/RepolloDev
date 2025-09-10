@@ -25,10 +25,8 @@ de forma simplificada.
     - El desarrollo web 🌐
     - La música (Escuchar y tocar) 🎸
     - El dibujo 🎨
-    - Los videojuegos 🎮
     - 👀 Leer, pero no documentación 🤫
     - El repollo y el pollo 🥬🍗
-    - Salir a correr 💨
 </pre>
 
 Durante mi aprendizaje he llegado a
@@ -37,8 +35,8 @@ ver cómo estas pueden ayudar a
 desarrollar proyectos increíbles.
 
 <p>
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/Podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </p>
